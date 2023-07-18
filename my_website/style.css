@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: #f5ef42;
+    text-align: center;
+    padding: 2% 0px;
+}
+
+header h1 {
+color: white;
+font-family: Helvetica, Arial, sans-serif;  
+}
+header img {
+border-radius: 50%;
+border: 10px solid #e6e7f7;
+
+}
+a:hover{
+    color: red;
+}
