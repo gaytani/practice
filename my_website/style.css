@@ -8,11 +8,14 @@ header{
     background-color: #f5ef42;
     text-align: center;
     padding: 2% 0px;
+
 }
 
 header h1 {
 color: white;
 text-shadow: -1px 0px 0px black, 1px 0px 0px black, 0px -2px 0px black, 0px 2px 0px black;
+font-family: 'Anton', sans-serif;
+font-stretch: extra-expanded;
 
 }
 main{
@@ -36,6 +39,9 @@ h1, h2{
 h2{
     font-size: 30px;
     color: #0058b1;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    margin-bottom: 0;
 
 }
 header img {
@@ -53,7 +59,4 @@ footer{
     margin: 0px;
     padding: 20px;
     text-align: right;
-}
-footer p{
-
 }
